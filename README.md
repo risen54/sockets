@@ -24,7 +24,7 @@ while True:
 ```
 
 - Client
-``py
+```py
 import socket
 import struct
 
